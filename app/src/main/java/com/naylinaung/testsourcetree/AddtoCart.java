@@ -10,4 +10,9 @@ public class AddtoCart extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_addto_cart);
     }
+
+    private void addCardItems()
+    {
+        
+    }
 }
