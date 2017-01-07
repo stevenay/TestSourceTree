@@ -22,6 +22,8 @@
         </activity>
         <activity android:name=".AddtoCart">
         </activity>
+        <activity android:name=".SupplierPurchaseActivity">
+        </activity>
     </application>
 
 </manifest>
