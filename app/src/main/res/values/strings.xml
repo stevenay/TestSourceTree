@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestSourceTree</string>
+    <string name="title_activity_customer_purchase">CustomerPurchaseActivity</string>
 </resources>
